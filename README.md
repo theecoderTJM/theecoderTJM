@@ -1,7 +1,7 @@
 - 👋 Salutations onlookers and affiliates, I’m @theecoderTJM
 - 👀 I’m interested in game development, cybersecurity and machine learning
 - 🌱 I’m currently learning SQL and will soon start C++
-- 💞️ I’m looking to collaborate on a small scale gamedev
+- 💞️ I’m looking to collaborate on a small scale gamedev project
 - 📫 How to reach me theecoderTJM@gmail.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: I am interested in martial arts, watching anime and walking.
