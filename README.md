@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theecoderTJM
+- 👋 Salutations onlookers and affiliates, I’m @theecoderTJM
 - 👀 I’m interested in game development, cybersecurity and machine learning
 - 🌱 I’m currently learning SQL and will soon start C++
 - 💞️ I’m looking to collaborate on a small scale gamedev
